@@ -1,18 +1,12 @@
 
-## Project Setup
+## Настройка проекта
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Компиляция
 
 ```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
 ```
